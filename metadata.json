@@ -1,0 +1,6 @@
+{
+  "name": "PixorAI Photo Enhance Pro Studio",
+  "description": "Professional desktop-first AI photo enhancement workspace with super-resolution upscaler, background preservation, before/after slider, and high-DPI export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
